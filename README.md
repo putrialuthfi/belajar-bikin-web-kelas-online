@@ -1,2 +1,2 @@
 # belajar-bikin-web-kelas-online
-Project belajar bikin website kelas online, start: 02 Sept, 2024
+Project belajar bikin website kelas online, start: 01 Sept, 2024
